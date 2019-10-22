@@ -1,4 +1,4 @@
-# Find-S-algorithmin-Python
+# Find-S-Algorithmin-Python
 Implementation of Find-S algorithm in Python
 
 1. Initialize h to the most specific hypothesis in H
